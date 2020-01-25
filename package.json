@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "axios": "0.18.0"
+    "axios": "0.18.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.4",
